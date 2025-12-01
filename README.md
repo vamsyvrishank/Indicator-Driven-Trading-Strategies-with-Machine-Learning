@@ -1,6 +1,6 @@
 
 
-# Algorithmic Trading Strategies: MACD-RSI & Random Forest
+# Technical Analysis Based Algorithmic Trading Strategies: MACD-RSI & Random Forest
 
 ## 1. Introduction
 
@@ -9,7 +9,7 @@ This project implements two systematic trading strategies using both technical i
 1.  **Rule-Based Strategy:** Designing a trading strategy using the **MACD** (Moving Average Convergence Divergence) and **RSI** (Relative Strength Index) indicators.
 2.  **Machine Learning Strategy:** Developing a **Random Forest–based classification model** to forecast short-term price trends and construct a trading strategy evaluated through the Sharpe ratio.
 
-*Note: All requirements and methodology are based on the FE670 Homework Assignment #4 instructions.*
+
 
 ---
 
@@ -34,7 +34,7 @@ $$\text{Histogram} = \text{MACD Line} - \text{Signal Line}$$
 
 
 
-[Image of MACD indicator chart]
+![alt text](images/image.png)
 
 
 **Interpretation:**
@@ -53,7 +53,7 @@ RSI is used to filter entries and exits within the MACD-identified trend directi
 
 
 
-[Image of RSI indicator chart]
+![alt text](images/rsi.png)
 
 
 ### 2.3 Trading Rules
