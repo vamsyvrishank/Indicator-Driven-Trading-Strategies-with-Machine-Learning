@@ -1,6 +1,4 @@
-Here is the content formatted as a clean, professional `README.md` file. I have organized it with clear hierarchy, LaTeX math formatting for the formulas, and code styling for filenames and libraries.
 
-***
 
 # Algorithmic Trading Strategies: MACD-RSI & Random Forest
 
@@ -135,9 +133,3 @@ This project demonstrates two systematically different approaches to trading:
 2.  A **machine-learning-driven strategy** using Random Forest classification on engineered features.
 
 Both strategies apply multi-year historical data, incorporate trend and momentum analysis, and generate performance metrics through the Sharpe ratio. The project showcases practical skills in quantitative analysis, technical indicators, machine learning modeling, and systematic trading strategy design.
-
----
-
-### **Would you like me to:**
-* Generate the Python code structure for the `pandas-ta` feature engineering section?
-* Create a requirements.txt file list based on the libraries mentioned?
